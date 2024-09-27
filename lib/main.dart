@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Palette.black,
         floatingActionButtonTheme: const FloatingActionButtonThemeData(
           backgroundColor: Palette.black,
+
         ),
         appBarTheme: const AppBarTheme(
           backgroundColor: Palette.mainAppColor,

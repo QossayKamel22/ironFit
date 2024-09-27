@@ -6,4 +6,5 @@ class Routes {
   static const String profile = '/profileScreen';
   static const String singUp = '/singUpScreen';
   static const String singIn = '/singInScreen';
+  static const String qossay = '/singInScreen';
 }
