@@ -1,6 +1,7 @@
 # IRONFIT
 
 ### **Train. Track. Evolve.**
+<img width="1408" height="768" alt="image_b4331f3" src="https://github.com/user-attachments/assets/e89ecf7a-d64e-46bf-ac96-aea9387cacaf" />
 
 IronFit is a modern **fitness and workout mobile application** built with Flutter, designed to help users structure their training, track their progress, and stay consistent with their fitness journey.
 
